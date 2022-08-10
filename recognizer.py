@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-# Employee Management System Using Python - Sagar Developer
+# Employee Management System Using Python
 from os import system
 import re
 # importing mysql connector
